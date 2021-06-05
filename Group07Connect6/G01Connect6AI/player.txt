@@ -1,0 +1,3 @@
+first	
+test01.player.SixChuan	
+test02.player.AI

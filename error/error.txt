@@ -1,0 +1,4 @@
+1、行和列弄混
+2、return
+3、.intValue()
+提高了自己debug的能力

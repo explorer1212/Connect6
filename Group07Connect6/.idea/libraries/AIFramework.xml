@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AIFramework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/G01Connect6AI/lib/AIFramework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

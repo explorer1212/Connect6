@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/baseline/player/AI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/baseline/player/Road.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/baseline/player/RoadTable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g05/AI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g05/Board_Score.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g05/Forecast.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g05/MyBoard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g05/MyMove.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g05/Road.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g05/Search.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g07/player/AI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g07/player/BoardG07.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g07/player/BoardScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g07/player/GenerateCandidates.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g07/player/Node.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g07/player/Road.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g07/player/Searcher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/g07/player/Step.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/test07/player/MyMove.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/test07/player/Road.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/G01Connect6AI/src/test07/player/Searcher.java" charset="GBK" />
+  </component>
+</project>

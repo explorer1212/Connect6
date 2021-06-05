@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Group07">
+    <output-path>$PROJECT_DIR$/out/artifacts/Group07</output-path>
+    <root id="archive" name="Group07.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/G01Connect6AI/src/g07/player" />
+    </root>
+  </artifact>
+</component>
